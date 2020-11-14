@@ -12,3 +12,4 @@ asdsd
 /usr/bin/bash: wq: command not found
 as
 dsd``sr/bin/bash: wq: command not found
+请问委屈恶气
